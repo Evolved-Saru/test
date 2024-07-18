@@ -1,0 +1,11 @@
+img {
+    width: 120px;
+    height: 180px;
+}
+
+a {
+font-size: 50px;
+font-family:serif;
+color: orange;
+background-color: aquamarine;
+}
